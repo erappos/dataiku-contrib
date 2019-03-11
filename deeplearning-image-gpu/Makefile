@@ -1,5 +1,5 @@
-PLUGIN_VERSION=0.1.4
-PLUGIN_ID=deeplearning-image-gpu
+PLUGIN_VERSION=0.1.5
+PLUGIN_ID=deeplearning-image-gpu2
 
 plugin:
 	cat plugin.json|json_pp > /dev/null
