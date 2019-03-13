@@ -1,5 +1,5 @@
 {
     "libraries" : [],
-    "label" : "Tensorboard: monitor the re-training of deep learning models",
+    "label" : "Tensorboard: monitor the re-training of deep learning models (stratos)",
     "backendEnabled": true
 }
